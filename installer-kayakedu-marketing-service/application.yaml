@@ -1,7 +1,7 @@
 kayakedu:
   slovak:
     visaTemplate: slovak-visa-mail-template.html
-    visaInputFileData: D:\\kayakedu-marketing-service\\slovak-visa-inputdata.xlsx
+    visaInputFileData: D:\\installer-kayakedu-marketing-service\\inputdata\\slovak-visa-inputdata.xlsx
     email:
       receiver: info@kayakedu.in
       subject: National D Visa-For Employment Purposes
